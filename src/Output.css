@@ -1,0 +1,10 @@
+.output {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: gray;
+    border: 1px solid black;
+}
